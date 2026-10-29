@@ -1,16 +1,21 @@
-## Hi there 👋
+# Muhammad Ahmad
 
-<!--
-**theahmadshafique/theahmadshafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer based in Karachi, Pakistan. I build clear, fast and secure web platforms.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[ALIF TAWAKKAL](https://aliftawakkal.com)** - an online store for honey, desi ghee, dates and dry fruits.
+
+**[Live Quran Reading](https://livequranreading.com)** - an online Quran learning platform.
+
+**[Islamic Info](https://islamic-info.com)** - an Islamic knowledge website.
+
+**[Classifolio](https://classifolio.com)** - a classifieds and portfolio platform.
+
+## Tools I use
+
+PHP, Laravel, MySQL, JavaScript, Tailwind CSS, Git
+
+## Contact
+
+[aliftawakkal.com](https://aliftawakkal.com) | [Instagram](https://www.instagram.com/aliftawakkalofficial/)
