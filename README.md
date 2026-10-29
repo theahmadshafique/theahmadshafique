@@ -1,6 +1,6 @@
 # Muhammad Ahmad
 
-Karachi-based web developer. I turn ideas into live, secure Laravel platforms that real businesses run on every day: online stores, learning platforms, school management and AI sales automation.
+Web developer. I design, build and run the platforms behind real businesses, and every one of them is live, secure and used every day.
 
 ## What I have built
 
@@ -26,7 +26,7 @@ An AI sales agent platform that talks to customers and helps businesses turn con
 
 ## Company
 
-These products are being brought together under **Qiblora**, a company based in Karachi.
+These products are being brought together under **Qiblora**.
 
 ## Tools I use
 
